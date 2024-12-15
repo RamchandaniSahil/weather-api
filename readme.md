@@ -36,3 +36,5 @@ Note: refer env_sample for environment variables
 ```
 npm start
 ```
+
+Sample solution for the [weather-api](https://roadmap.sh/projects/weather-api-wrapper-service) challenge from [roadmap.sh](https://roadmap.sh).
